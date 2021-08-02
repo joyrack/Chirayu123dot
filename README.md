@@ -1,9 +1,6 @@
-### Welcome!! 🙌
+### Welcome!! 🙌 
 
-<!--
-**Chirayu123dot/Chirayu123dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:  -->
+<img width="40%" align="right" alt="GIF" src="https://media.giphy.com/media/qoJ9sZu2Xui9a/source.gif" />
 
 - 🔭 I’m currently working on an app
 - 🌱 I’m currently learning Android App Development

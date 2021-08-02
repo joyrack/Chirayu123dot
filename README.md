@@ -1,6 +1,6 @@
 ### Welcome!! 🙌 
 
-<img width="40%" align="right" alt="GIF" src="https://media.giphy.com/media/qoJ9sZu2Xui9a/source.gif" />
+<img width="35%" align="right" alt="GIF" src="https://media.giphy.com/media/qoJ9sZu2Xui9a/source.gif" />
 
 - 🔭 I’m currently working on an app
 - 🌱 I’m currently learning Android App Development

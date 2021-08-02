@@ -8,4 +8,4 @@
 - 💬 Ask me about Competitive Programming / App Development
 - 📫 How to reach me: thechirayu02@gmail.com
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Chirayu123dot&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Chirayu123dot&theme=solarized-dark&hide_border=true)

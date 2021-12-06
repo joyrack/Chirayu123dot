@@ -2,9 +2,8 @@
 
 <img width="35%" align="right" alt="GIF" src="https://media.giphy.com/media/qoJ9sZu2Xui9a/source.gif" />
 
-- 🔭 I’m currently working on an app
-- 🌱 I’m currently learning Android App Development
-- 🤔 I’m looking for help with UI/UX
+- 🌱 Currently learning Android App Development & Flutter
+- 🤔 Looking for a designer to make amazing UI/UX
 - 💬 Ask me about Competitive Programming / App Development
 - 📫 How to reach me: thechirayu02@gmail.com
 

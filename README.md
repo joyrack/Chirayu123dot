@@ -6,5 +6,6 @@
 - 🤔 Looking for a designer to make amazing UI/UX
 - 💬 Ask me about Competitive Programming / App Development
 - 📫 How to reach me: thechirayu02@gmail.com
+</br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Chirayu123dot&theme=vue-dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chirayu123dot&theme=vue-dark)](https://git.io/streak-stats)

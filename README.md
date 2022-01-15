@@ -8,4 +8,4 @@
 - 📫 How to reach me: thechirayu02@gmail.com
 </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chirayu123dot&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chirayu123dot&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
